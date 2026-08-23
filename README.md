@@ -43,6 +43,7 @@ building-rag-pipelines/
 │   ├── instructor_guide.md      # Minute-by-minute run sheet mapped to the 180-min agenda
 │   ├── learner_handout.md       # Take-home study notes, cheat sheets, glossary
 │   ├── exercises.md             # Graded practice exercises per stage + capstone
+│   ├── improving_rag_reducing_hallucinations.md   # Student guide: ~30 techniques + enterprise case studies
 │   └── solutions/solutions.md   # Worked solutions
 ├── requirements.txt  ·  .env.example  ·  .gitignore
 └── docs/superpowers/specs/      # design spec for this package
